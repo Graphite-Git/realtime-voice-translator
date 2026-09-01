@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+env/
+venv/
+.idea/
+
+# 敏感配置
+config.py
+
+
+models/*.bin
+
+# 允许 argostranslate 本地翻译模型（较小，打包进仓库）
+!data/**/*.bin
+*.pt
+*.pth
+*.onnx
+
+# 临时文件
+*.wav
+*.mp3
+*.tmp
+dev/
