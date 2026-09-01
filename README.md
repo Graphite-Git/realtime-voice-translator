@@ -1,6 +1,6 @@
  # 🎮 Realtime Voice Translator
 
-按住热键说话，自动识别 → whisper翻译成英语 → edge-tts语音合成 → 输出到虚拟麦克风。适用于与陌生外国队友语音。
+按住热键，whisper自动识别 → 翻译成英语 → edge-tts合成 → 输出到虚拟麦克风。适用于与陌生外国队友语音。
 
 ## ✨ 功能
 
