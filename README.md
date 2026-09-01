@@ -68,3 +68,7 @@ python main.py
 ## 📄 License
 
 [GPL-3.0](LICENSE)
+
+## 📝 关于本项目
+
+这是我的第一个开源项目，使用vibe coding制作。欢迎 Star 和反馈。
