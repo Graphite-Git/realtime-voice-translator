@@ -71,4 +71,4 @@ python main.py
 
 ## 📝 关于本项目
 
-这是我的第一个开源项目，使用vibe coding制作。欢迎 Star 和反馈。
+这是我的第一个开源项目，使用vibe coding制作，因为不熟悉相关项目流程，可能出现未知问题。欢迎 Star 和反馈。
