@@ -61,7 +61,6 @@ python main.py
 本地离线翻译使用 argostranslate，首次运行时会自动下载约 50MB 模型到系统目录：
 
 - **Windows:** `C:\Users\<你的用户名>\.local\share\argos-translate\`
-- **Linux/macOS:** `~/.local/share/argos-translate/`
 
 请确保首次使用本地翻译时有网络连接（可能需要代理）。下载完成后即可永久离线使用。如果自动下载失败，可手动将模型文件放置到上述路径。
 
